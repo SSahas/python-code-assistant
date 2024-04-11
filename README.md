@@ -14,3 +14,6 @@
 # Metrics 
 - RogueL : 0.41 on 150 test samples
 - Training loss - 0.55
+
+# Training 
+- 7 Hours on Tesla P100 -16 GB (Kaggle)
