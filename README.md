@@ -4,7 +4,7 @@
 
 - Dataset used : iamtarun/python_code_instructions_18k_alpaca
 
-- Base model size : 350 Million parameters 
+- Base model size : 350 Million 
 
 - Total tokens Trained for 6 epochs : 25 Million 
 
