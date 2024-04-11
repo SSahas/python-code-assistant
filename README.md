@@ -1,6 +1,6 @@
 # python_code_assistant
 
-- finetuned Salesforce/codegen-350M-mono model into a python code assistant using peft techniques.
+- finetuned Salesforce/codegen-350M-mono model into a python code assistant using peft.
 
 - Dataset used : iamtarun/python_code_instructions_18k_alpaca
 
