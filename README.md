@@ -12,4 +12,4 @@
 
 
 # Metrics 
-- RogueL : 0.41 on 150 samples
+- RogueL : 0.41 on 150 test samples
