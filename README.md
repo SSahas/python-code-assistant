@@ -18,3 +18,8 @@
 # Training 
 - 18k samples for Training and 611 samples for Testing
 - 7 Hours on Tesla P100 -16 GB (Kaggle)
+
+
+# Test the model Yourself
+
+Notebook link : https://colab.research.google.com/drive/1vs94XnCnolhfwvYmgEhZrR_1UqcHmBzg
