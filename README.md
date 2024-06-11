@@ -17,7 +17,7 @@
 
 # Training 
 - 18k samples for Training and 611 samples for Testing
-- 7 Hours on Tesla P100 -16 GB (Kaggle)
+- 7 Hours on Tesla P100 -16 GB (Free kaggle GPU support)
 - Dataset : https://huggingface.co/datasets/iamtarun/python_code_instructions_18k_alpaca
 
 # Test the model Yourself
