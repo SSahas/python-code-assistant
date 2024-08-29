@@ -8,7 +8,7 @@
 
 - Total tokens Trained for 6 epochs : 25 Million 
 
-- Trainable parameters of the peft model : 1,310,720
+- Trainable parameters of the peft model : 2,621,440
 
 
 # Metrics 
