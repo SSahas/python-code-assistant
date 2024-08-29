@@ -6,14 +6,14 @@
 
 - Base model size : 350 Million 
 
-- Total tokens Trained for 6 epochs : 25 Million 
+- Total tokens Trained for 6 epochs : 23 Million 
 
 - Trainable parameters of the peft model : 2,621,440
 
 
 # Metrics 
 - RogueL : 0.41 on 150 test samples
-- Training loss - 0.55
+- Training loss - 0.51
 
 # Training 
 - 18k samples for Training and 611 samples for Testing
