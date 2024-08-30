@@ -16,7 +16,7 @@
 - Training loss - 0.51
 
 # Training 
-- 18k samples for Training and 611 samples for Testing
+- 17k samples for Training.
 - 3.5 Hours on Tesla P100 -16 GB (Free kaggle GPU support)
 - Dataset : https://huggingface.co/datasets/iamtarun/python_code_instructions_18k_alpaca
 
